@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "My Projects"
+    url: /data-wrangling/
+  - title: "My Portfolio"
+    url: /portfolio/  
+  - title: "Volunteer"
+    url: /volunteer/
+  - title: "Recipes"
+    url: /recipes/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
