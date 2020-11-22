@@ -88,5 +88,5 @@ You can also attach picture or "icon" to each node using the code below.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/war_n_peace/collapsible_tree3.PNG" alt="icon">
 
-For complete detail on this collapsible tree, please visit [Collapsible Tree](https://github.com/victoriaqt/collapsible_tree_d3_js)
+For complete detail on this collapsible tree, please visit [Collapsible Tree](https://github.com/VictoriaQTHuynh/collapsible_tree_d3_js)
 
