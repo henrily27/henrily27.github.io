@@ -27,7 +27,7 @@ My motto in life is "Be better today than you were yesterday, and be better tomo
 
 > What we think, we become. -- Buddha
 
-### Causes I Care About
+## Causes I Care About
 
 {% include feature_row id="feature_row_left" type="left" %}
 
