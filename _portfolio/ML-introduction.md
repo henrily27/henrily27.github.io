@@ -2,7 +2,7 @@
 layout: splash
 title: "Introduction to Machine Learning"
 header:
-  image: /images/ai_human_hand.jpg
+  image: /images/ML/ai_human_hand.jpg
 
 ---
 
@@ -15,7 +15,7 @@ There are three categories of Machine Learning approarches:
 The tree below shows the typical business cases under each category.
 
 <div style="width:80%; font-size:80%; text-align:center">
-<img src="/images/ML_example.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/ML_example.png" style="padding-bottom:0.5em;"/>
 Examples Where Machine Learning Apply
 </div>  
 
@@ -41,7 +41,7 @@ Examples Where Machine Learning Apply
 The same tree shows the different algorithms associate with each category.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/ML_algorithm.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/ML_algorithm.png" style="padding-bottom:0.5em;"/>
 </div>  
 
 
@@ -50,7 +50,7 @@ The same tree shows the different algorithms associate with each category.
 In a Supervised Learning process, the model is presented with Train set (a sample input and its desired outputs), and the goal is to learn the rules that maps inputs to outputs.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/ML_process.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/ML_process.png" style="padding-bottom:0.5em;"/>
 </div>  
 
 
@@ -61,7 +61,7 @@ Using the same dataset,
 * Classification model is trying to answer the question “Will it be hot or cold?” The output is a category.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/SL_example.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/SL_example.png" style="padding-bottom:0.5em;"/>
 </div>   
   
 
@@ -70,7 +70,7 @@ Using the same dataset,
 * To predict if an email could be spam, we can consider 2 features - Sender Anonymity and Mass Mailing - to classify if a new email could potentially be spam or not.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/SL_example2.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/SL_example2.png" style="padding-bottom:0.5em;"/>
 </div>   
 
 ### It’s a Bird: Regression vs. Classification
@@ -79,7 +79,7 @@ In this example, using the same dataset, we can either
 * Group these images into categories of birds, dogs, or cats, that a new image can be mapped to, using Classification.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/SL_example3.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/SL_example3.png" style="padding-bottom:0.5em;"/>
 </div>
 
 
@@ -89,7 +89,7 @@ In this example, using the same dataset, we can either
 * In this example of Association, people who use Instagram tend to also use Snapchat and Tiktok, and people who buy milk and bread also buy cheese.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/UL_example.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/UL_example.png" style="padding-bottom:0.5em;"/>
 </div>
 
 
@@ -100,18 +100,18 @@ Using the same dataset, we can group the animals into groups of dogs, cats, and 
 * For Clustering approach, the data is not labelled and the model identifies structure as clusters where new data can be assigned to clusters.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/SL_UL.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/SL_UL.png" style="padding-bottom:0.5em;"/>
 </div>
 
 ### Conceptual: Classification vs. Clustering
 In this conceptual view, we compare the difference between Classification and Clustering.
 
 <div style="width:80%; font-size:80%; text-align:center;">
-<img src="/images/SL_UL_2.png" style="padding-bottom:0.5em;"/>
+<img src="/images/ML/SL_UL_2.png" style="padding-bottom:0.5em;"/>
 </div>
 
 
 ## Reinforcement Learning Examples
 ### Training a Dog to Fetch a Toy
-<img src="{{ site.url }}{{ site.baseurl }}/images/RL_example.png" alt="RL dog example">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ML/RL_example.png" alt="RL dog example">
 
