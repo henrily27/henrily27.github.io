@@ -246,7 +246,7 @@ collections:
   portfolio:                            #output index.html files for each portolio document in _portfolio at _site/portofolio/<document-filename>/
     output: true
     permalink: /:collection/:path/    
-  recipes:
+  dataanalytics:
     output: true
     permalink: /:collection/:path/
     
@@ -282,10 +282,10 @@ defaults:
       author_profile: false
       share: #true
 
-  # _recipes
+  # _dataanalytics
   - scope:
       path: ""
-      type: recipes
+      type: dataanalytics
     values:
       layout: single
       author_profile: true
