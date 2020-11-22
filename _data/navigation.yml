@@ -10,8 +10,8 @@ main:
     url: /portfolio/  
   - title: "Volunteer"
     url: /volunteer/
-  - title: "Recipes"
-    url: /recipes/
+  - title: "Data Analytics"
+    url: /data-analytics/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
