@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Introduction to Machine Learning"
-excerpt: "Introduction to Supervised, Unsupervised, and Reinforcement Learning through pictures."
+excerpt: "Introduction to Supervised, Unsupervised, and Reinforcement Learning."
 header:
   image: /images/ai_human_hand.jpg
   teaser: /images/ai_human_hand.jpg
