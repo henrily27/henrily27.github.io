@@ -10,8 +10,8 @@ main:
     url: /data-analytics/
   - title: "My Projects"
     url: /data-wrangling/
-  - title: "Hobby"
-    url: /hobby/
+  #- title: "Hobby"
+  #  url: /hobby/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
