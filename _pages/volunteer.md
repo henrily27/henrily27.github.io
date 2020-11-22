@@ -10,24 +10,21 @@ excerpt: >
   
 feature_row:
   - image_path: /images/boyscout.jpg
-    title: "Boyscout"
-    excerpt: "Boyscout Leader"
+    title: "Image 1"
+    excerpt: "Something here"
   - image_path: /images/school.jpg
-    title: "School"
-    excerpt: "Improve Math Literacy"
+    title: "Image 2"
+    excerpt: "Something here"
     url: "https://www.google.com/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/zoo.jpg
-    title: "Zoo"
-    excerpt: "Save the Animals"
+    title: "Image 3"
+    excerpt: "Something here"
     url: "https://www.google.com/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
 ---
-
-# My Volunteering Experiences
-Write something
 
 {% include feature_row %}
