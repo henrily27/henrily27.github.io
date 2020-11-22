@@ -4,7 +4,7 @@ permalink: /about/
 header:
   image: "/images/Industry.PNG"
   
-feature_row:
+feature_row_left:
   - image_path: /images/cycle_houston.png
     alt: "cycle"
     title: "Cycle Houston"
@@ -23,12 +23,12 @@ feature_row:
 
 I have been working in tech industry for over a decade and currently lead a team of data scientists. Throughout my career I have the opportunites to work with customers from many industries listed above, and learn about their business.  I love to learn about the complexity of each business and how they operate differently with different constraints and objectives.  It's my passion to apply data science to solve these business problems, especially to figure out how the same models can be applied across industries.
 
-My motto in life is "*Be better today than you were yesterday, and be better tomorrow than you are today*.” —Lorenzo Snow
+My motto in life is "Be better today than you were yesterday, and be better tomorrow than you are today.” —*Lorenzo Snow
 
 > What we think, we become. -- Buddha
 
-### Causes that I care about
+### Causes I Care About
 
-{% include feature_row %}
+{% include feature_row id="feature_row_left" type="left" %}
 
 
