@@ -6,7 +6,7 @@ main:
     url: /resume/
   - title: "My Projects"
     url: /data-wrangling/
-  - title: "My Portfolio"
+  - title: "Machine Learning"
     url: /portfolio/  
   - title: "Volunteer"
     url: /volunteer/
