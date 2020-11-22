@@ -5,7 +5,7 @@ excerpt: "Introduction to Supervised, Unsupervised, and Reinforcement Learning t
 header:
   image: /images/ai_human_hand.jpg
   teaser: /images/ai_human_hand.jpg
-
+  caption: "Photo credit: [**Freepik**](https://www.freepik.com)"
 ---
 
 
