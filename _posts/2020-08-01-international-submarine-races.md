@@ -85,4 +85,5 @@ Table of Content (manually)
 <img src="/images/train.jpg" style="padding-bottom:0.5em;"/>
 </div> 
 
+For additional information about the ISR races and the work my team did, please go to this link: [isr-work](https://github.com/henrily27/isr-work/)
 
