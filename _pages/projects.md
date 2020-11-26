@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /data-wrangling/
-title: "My Projects"
+title: "School Projects"
 author_profile: true
 header:
   overlay_image: "/images/project.jpg"
