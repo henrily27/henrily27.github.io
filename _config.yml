@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "V.H."
+title                    : "Henri Ly"
 title_separator          : "-"
-name                     : "Data Science Portfolio"
-description              : "Data Science Portfolio"
+name                     : "My Portfolio"
+description              : "My Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "V.H."
+  name             : "Henri Ly"
   avatar           : "/images/decisionTree4.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Tell me and I forget.  Teach me and I remember.  Involve me and I learn   --Benjamin Franklin"
-  location         : "Houston, TX"
+  bio              : "Current junior in high school. Academic"
+  location         : "Frederick, MD"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
