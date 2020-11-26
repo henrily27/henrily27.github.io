@@ -4,14 +4,14 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
-  - title: "Machine Learning"
-    url: /portfolio/  
   - title: "Data Analytics"
     url: /data-analytics/
-  - title: "My Projects"
+  - title: "Projects"
     url: /data-wrangling/
-  #- title: "Hobby"
-  #  url: /hobby/
+  - title: "Volunteering"
+    url: /portfolio/  
+  - title: "Hobbies"
+    url: /hobbies/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
