@@ -1,19 +1,16 @@
 ---
 layout: splash
-title: "Test Post"
-date: 2020-11-14
-tags: [something, test]
+title: "International Submarine Races"
+date: 2020-08-01
+tags: [competition, water, science, hydrodynamics, submarines, team]
 header:
   overlay_color: "#000"
   overlay_filter: 0.5
   overlay_image: /images/train.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://www.unsplash.com)"
+  caption: "Photo credit: [**Jerry Huang**]"
 excerpt: >
-  *Write something*<br />
-  <small>-- write something else</small>
+  *Our submarine at the competition site*<br />
+  <small>--Our submarine was made out of fiberglass, and is human-powered using pedals. It is quite a tight fit.</small>
 
 feature_row_left:
   - image_path: /images/airport.jpg
@@ -81,7 +78,7 @@ Table of Content (manually)
 
 # Ways to insert images
 ## Size as is
-<img src="{{ site.url }}{{ site.baseurl }}/images/train.jpg" alt="tree">
+<img src="{{ site.url }}{{ site.baseurl }}/images/train.jpg" alt="train">
 
 ## Adjust image size
 <div style="width:20%; font-size:80%; text-align:center;">
