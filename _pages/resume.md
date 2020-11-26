@@ -13,12 +13,14 @@ excerpt: >
 ---
 
 # MY RESUME
-Henri Ly
+Henri Ly <br />
 High School Junior
 
 ## EDUCATION
 Urbana High School • Ijamsville, MD	Sept. 2018 - Present
+
 Classes include: 	
+
 | Class                       | Grade |
 |-----------------------------|-------|
 | AP Calculus BC              | A     |
@@ -27,8 +29,11 @@ Classes include:
 | AP Microeconomics           | A     |
 | AP Language and Composition | A     |
 | AP World History            | A     |
+
 Expected Graduation: May 2022
+
 Unweighted GPA: 4.0; weighted GPA: 4.8
+
 Frederick County Career and Technology Center • Frederick, MD	Sept. 2019 - Present
 
 ## CAD Engineering:
