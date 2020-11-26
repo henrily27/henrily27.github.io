@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /hobby/
+permalink: /hobbies/
 title: "The Art of 3D Origami"
 author_profile: true
 header:
