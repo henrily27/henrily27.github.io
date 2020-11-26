@@ -88,7 +88,7 @@ author:
   avatar           : "/images/decisionTree4.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Current junior in high school. Academic"
   location         : "Frederick, MD"
-  email            :
+  email            : "03henri.ly@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "Your Github"
+  github           : "henrily27.github.io"
   gitlab           :
   google_plus      :
   keybase          :
