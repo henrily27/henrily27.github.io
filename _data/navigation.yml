@@ -4,11 +4,9 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
-  - title: "Data Analytics"
-    url: /data-analytics/
-  - title: "Projects"
+  - title: "School Projects"
     url: /data-wrangling/
-  - title: "Volunteering"
+  - title: "Analytics Projects"
     url: /portfolio/  
   - title: "Hobbies"
     url: /hobbies/
