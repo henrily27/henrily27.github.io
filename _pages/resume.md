@@ -13,8 +13,8 @@ excerpt: >
 ---
 
 # MY RESUME
-Henri Ly <br />
-High School Junior
+### Henri Ly <br />
+### High School Junior
 
 ## EDUCATION
 ### Urbana High School • Ijamsville, MD	Sept. 2018 - Present
@@ -49,11 +49,11 @@ Mathnasium • Mt. Airy, MD  Nov. 2019 - Mar. 2020
  - Aided students with building strong numerical foundations and skills, utilized 
 
 ## SKILLS	
-Highly Proficient • Microsoft Office 365 2019 (Word, Excel, PowerPoint)
-Highly Proficient • GIMP (2.10.12)
-Proficient • Adobe Creative Cloud 2019 (Photoshop, Illustrator, InDesign)
-Proficient • Autodesk Product Design Suite 2019 (Inventor, AutoCAD)
-Competent • Python (2.7.17), JavaScript 2017, HTML5 (Vue, Ghost), Processing (3.5.3)
+Highly Proficient • Microsoft Office 365 2019 (Word, Excel, PowerPoint) <br />
+Highly Proficient • GIMP (2.10.12) <br />
+Proficient • Adobe Creative Cloud 2019 (Photoshop, Illustrator, InDesign) <br />
+Proficient • Autodesk Product Design Suite 2019 (Inventor, AutoCAD) <br />
+Competent • Python (2.7.17), JavaScript 2017, HTML5 (Vue, Ghost), Processing (3.5.3) <br />
 
 ## COMMUNITY SERVICE
  - Logged approximately 400 Student Service Learning hours with an additional 1000 undocumented hours for community service
