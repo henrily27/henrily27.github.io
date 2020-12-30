@@ -36,7 +36,7 @@ feature_row:
 
 Origami is the art of paper folding, which is often associated with Japanese culture. In modern usage, the word "origami" is used as an inclusive term for all folding practices, regardless of their culture of origin. 
 
-I am a big fan of origami since I started folding my first crane as a kid. In highschool, while most students' Easter project was colored eggs, mine was an origami forest with rabbits, deers, birds, and trees.
+I have been an adherent of origami since before elementary school, when I was taught how to fold paper airplanes. Next came a simplistic boat that I could replicate in all different sizes of paper
 
 To finish an origami piece requires intricacies and dedication to go through each minute step. Recently I learn about 3D origami which is very different from traditional origami. With 3D origami, the base piece is simple to make. The complexity comes from putting together hundreds or thousands of those base pieces into one origami figure.
 
