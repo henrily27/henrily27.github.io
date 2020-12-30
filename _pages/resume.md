@@ -13,8 +13,8 @@ excerpt: >
 ---
 
 # MY RESUME
-### Henri Ly <br />
-### High School Junior
+### Henri Ly • High School Junior
+
 
 ## EDUCATION
 ### Urbana High School • Ijamsville, MD	Sept. 2018 - Present
@@ -41,12 +41,14 @@ Project and program work includes:
  - Monitoring water quality in the Chesapeake Bay
  - A prospective business venture, applying engineering principles to 3D modeling
 
+
 ## EXPERIENCE
 ### John Hopkins University/APL • Laurel, MD	Sept. 2017 - Dec. 2017
 Completed 12-week SolidWorks course 	Completion: Dec. 2017
  - Project work included: Designing items for hurricane relief in the Caribbean, building relief plans/displays to raise awareness for disasters
 Mathnasium • Mt. Airy, MD  Nov. 2019 - Mar. 2020
  - Aided students with building strong numerical foundations and skills, utilized 
+
 
 ## SKILLS	
 Highly Proficient • Microsoft Office 365 2019 (Word, Excel, PowerPoint) <br />
@@ -55,8 +57,10 @@ Proficient • Adobe Creative Cloud 2019 (Photoshop, Illustrator, InDesign) <br 
 Proficient • Autodesk Product Design Suite 2019 (Inventor, AutoCAD) <br />
 Competent • Python (2.7.17), JavaScript 2017, HTML5 (Vue, Ghost), Processing (3.5.3) <br />
 
+
 ## COMMUNITY SERVICE
  - Logged approximately 400 Student Service Learning hours with an additional 1000 undocumented hours for community service
+
 
 ## ORGANIZATIONS AND AWARDS
 ### SkillsUSA
