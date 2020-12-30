@@ -32,7 +32,8 @@ Classes include:
 
 Expected Graduation: May 2022
 
-Unweighted GPA: 4.0; weighted GPA: 4.8
+ - Unweighted GPA: 4.0
+ - Weighted GPA: 4.8
 
 ### Frederick County Career and Technology Center • Frederick, MD	Sep. 2019 - Aug. 2020
 CAD Engineering:
